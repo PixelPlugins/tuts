@@ -36,3 +36,12 @@ You can make text large in html with headers.
 Replace h1 with h2, h3, h4, h5, or h6. The larger the number, the smaller the text. The largest number is 6, meaning h6 is the smallest header.
 
 Example: \<h1\>\Header 1</h1\> Shows as <h1>Header 1</h1>    Notice how headers are always on a seperate line.
+
+
+# Try HTML
+
+<textarea form="try" name="htmlcode"></textarea>
+
+<form action="worldofecks.ddns.net/echohtml.php" method="get" id="try">
+  <button type="submit">Go</button>
+</form>
