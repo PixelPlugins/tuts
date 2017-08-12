@@ -40,8 +40,4 @@ Example: \<h1\>\Header 1</h1\> Shows as <h1>Header 1</h1>    Notice how headers 
 
 # Try HTML
 
-<textarea form="try" name="htmlcode"></textarea>
-
-<form action="worldofecks.ddns.net/echohtml.php" method="get" id="try">
-  <button type="submit">Go</button>
-</form>
+Try html [here!](worldofecks.ddns.net/echohtml.php)
