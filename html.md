@@ -28,3 +28,11 @@ Example:
 
 \<img src="http://i0.kym-cdn.com/entries/icons/mobile/000/013/564/doge.jpg"\> shows as <img src="http://i0.kym-cdn.com/entries/icons/mobile/000/013/564/doge.jpg">
 
+## Making Text Large (Headers)
+You can make text large in html with headers.
+
+\<h1\>\Header 1 Text</h1\>
+
+Replace h1 with h2, h3, h4, h5, or h6. The larger the number, the smaller the text. The largest number is 6, meaning h6 is the smallest header.
+
+Example: \<h1\>\Header 1</h1\> Shows as <h1>Header 1</h1>    Notice how headers are always on a seperate line.
