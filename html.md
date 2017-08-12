@@ -40,4 +40,4 @@ Example: \<h1\>\Header 1</h1\> Shows as <h1>Header 1</h1>    Notice how headers 
 
 # Try HTML
 
-Try html [here!](worldofecks.ddns.net/echohtml.php)
+Try html [here!](http://worldofecks.ddns.net/echohtml.php)
