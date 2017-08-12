@@ -18,3 +18,13 @@ A link is broken down into two parts: the url and the text. The url is where the
 \<a href="http://page-to-go-to"\>link text\</a\>
 
 Example: \<a href="http://www.google.com"\>Go to google\</a\> shows up as [Go to google](http://www.google.com)
+
+## Images
+You can show images in html. Do it like this:
+
+\<img src="http://image-web-address"\>    Notice how you don't close the image tag with \</img\>. Some tags you don't close.
+
+Example:
+
+\<img src="http://i0.kym-cdn.com/entries/icons/mobile/000/013/564/doge.jpg"\> shows as <img src="http://i0.kym-cdn.com/entries/icons/mobile/000/013/564/doge.jpg">
+
